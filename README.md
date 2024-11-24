@@ -9,6 +9,7 @@
 * [Usage](#usage)
 * [API Documentation](#api-documentation)
 * [Class Diagram](#class-diagram)
+* [Database Diagram](#database-diagram)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -48,8 +49,10 @@
 
 
 ## Class Diagram
-📐 **UML Class Diagram**: The class structure, including entities, relationships, and data access patterns, is available in the [Class Diagram](./docs/UML_Class_Diagram.png) file.
+📐 **UML Class Diagram**: The class structure, including entities, relationships, and data access patterns, is available in the [Class Diagram](./docs/CoolMealsUML.png) file.
 
+## Database Diagram
+🗄️ **Database Diagram**: The database design, illustrating tables, relationships, and key attributes, is provided in the [Database Diagram](./docs/CoolMealsDB.png) file.
 
 ## Project Status
 Project is: _in progress_ 🛠️
