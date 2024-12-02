@@ -45,7 +45,7 @@
 
 
 ## API Documentation
-📡 **CoolMeals API Documentation**: Detailed API documentation for CoolMeals, including endpoints, request formats, and sample responses, can be found in the [API Documentation](./docs/API_Documentation.md) file.
+📝 **CoolMeals API Documentation**: Detailed API documentation for CoolMeals, including endpoints, request formats, and sample responses, can be found in the [API Documentation](./docs/API_Documentation.md) file.
 
 
 ## Class Diagram
