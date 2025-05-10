@@ -6,7 +6,7 @@
 * [Technologies](#technologies-used)
 * [Features](#features)
 * [Setup](#setup)
-* [Usage](#usage)
+* [Examples](#examples)
 * [Database Diagram](#database-diagram)
 * [Sequence Diagrams](#sequence-diagrams)
 * [Project Status](#project-status)
@@ -42,9 +42,8 @@
 
 ## Setup
 
-
-## Usage
-
+## Examples
+> 🖼️ This section will include screenshots and walkthroughs of the application’s key features and user flows. Visual examples are coming soon.
 
 ## Database Diagram
 🗄️ The database design, illustrating tables, relationships, and key attributes.
