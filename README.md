@@ -41,6 +41,7 @@
 
 
 ## Setup
+> 🚧 This section is under construction and will be completed in a future update.
 
 ## Examples
 > 🖼️ This section will include screenshots and walkthroughs of the application’s key features and user flows. Visual examples are coming soon.
