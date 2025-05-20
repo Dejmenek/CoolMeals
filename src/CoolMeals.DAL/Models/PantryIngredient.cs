@@ -7,4 +7,5 @@ public class PantryIngredient
     public decimal? Quantity { get; set; }
     public string? Unit { get; set; }
     public DateOnly ExpirationDate { get; set; }
+    public Pantry Pantry { get; set; } = null!;
 }
