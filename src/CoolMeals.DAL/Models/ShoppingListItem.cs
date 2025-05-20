@@ -7,4 +7,5 @@ public class ShoppingListItem
     public decimal? Quantity { get; set; }
     public string? Unit { get; set; }
     public bool IsChecked { get; set; } = false;
+    public ShoppingList ShoppingList { get; set; } = null!;
 }
