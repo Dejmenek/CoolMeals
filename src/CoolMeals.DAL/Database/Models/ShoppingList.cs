@@ -1,9 +1,9 @@
-﻿namespace CoolMeals.DAL.Models;
+﻿namespace CoolMeals.DAL.Database.Models;
 public class ShoppingList
 {
     public int ShoppingListId { get; set; }
-    public int UserId { get; set; }
+    public Guid UserId { get; set; }
     public string Title { get; set; } = string.Empty;
-    public ApplicationUser User { get; set; } = null!;
     public ICollection<ShoppingListItem> ShoppingListItems { get; } = new List<ShoppingListItem>();
+    public ApplicationUser User { get; set; } = null!;
 }

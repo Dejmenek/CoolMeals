@@ -1,4 +1,4 @@
-﻿namespace CoolMeals.DAL.Models;
+﻿namespace CoolMeals.DAL.Database.Models;
 public class RecipeIngredient
 {
     public int RecipeIngredientId { get; set; }

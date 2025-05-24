@@ -1,4 +1,4 @@
-﻿namespace CoolMeals.DAL.Models;
+﻿namespace CoolMeals.DAL.Database.Models;
 public class MealPlan
 {
     public int MealPlanId { get; set; }

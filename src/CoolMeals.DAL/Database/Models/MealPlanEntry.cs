@@ -1,6 +1,6 @@
 ﻿using CoolMeals.Shared.Enums;
 
-namespace CoolMeals.DAL.Models;
+namespace CoolMeals.DAL.Database.Models;
 public class MealPlanEntry
 {
     public int MealPlanEntryId { get; set; }
