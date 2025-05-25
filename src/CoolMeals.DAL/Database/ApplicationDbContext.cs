@@ -1,4 +1,4 @@
-﻿using CoolMeals.DAL.Models;
+﻿using CoolMeals.DAL.Database.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
