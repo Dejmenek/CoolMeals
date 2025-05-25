@@ -1,4 +1,4 @@
-﻿namespace CoolMeals.DAL.Models;
+﻿namespace CoolMeals.DAL.Database.Models;
 public class ShoppingListItem
 {
     public int ShoppingListItemId { get; set; }
@@ -7,4 +7,5 @@ public class ShoppingListItem
     public decimal? Quantity { get; set; }
     public string? Unit { get; set; }
     public bool IsChecked { get; set; } = false;
+    public ShoppingList ShoppingList { get; set; } = null!;
 }
